@@ -134,10 +134,7 @@ Key settings to avoid typical VHS errors and improve coherence:
 
 ## Screenshot
 
-```md
-![](workflow.jpg)
-```
-
+![Workflow Screenshot](workflow.jpg)
 ---
 
 ## Troubleshooting (common issues)
