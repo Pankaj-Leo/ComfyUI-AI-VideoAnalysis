@@ -134,13 +134,8 @@ Key settings to avoid typical VHS errors and improve coherence:
 
 ## Screenshot
 
-
-`assets/workflow.jpg`
-
-And reference it:
-
 ```md
-![](/Users/leo/Documents/ComfyUI/custom_nodes/ComfyUI-Gemini_Flash_2.0_VideoAnalysis/workflow.jpg)
+![](workflow.jpg)
 ```
 
 ---
