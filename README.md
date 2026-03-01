@@ -175,15 +175,10 @@ You can also run ComfyUI from terminal to see live stdout.
 
 ---
 
-## Repository Structure (suggested)
+**Pankaj Somkuwar** - AI Engineer / AI Product Manager / AI Solutions Architect
 
-```
-.
-├── README.md
-├── workflows/
-│   └── gemini_video_analysis.json
-└── assets/
-    └── workflow.png
-```
+- LinkedIn: [Pankaj Somkuwar](https://www.linkedin.com/in/pankaj-somkuwar/)
+- GitHub: [@Pankaj-Leo](https://github.com/Pankaj-Leo)
+- Website: [Pankaj Somkuwar](https://www.pankajsomkuwarai.com)
+- Email: [pankaj.som1610@gmail.com](mailto:pankaj.som1610@gmail.com)
 
----
