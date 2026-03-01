@@ -34,7 +34,7 @@ This pattern is a reusable building block for real systems:
 
 ---
 
-
+![](comfyVideo.png)
 ## What you get
 
 A ComfyUI workflow like:
